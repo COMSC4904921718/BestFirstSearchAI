@@ -1,0 +1,6 @@
+Priority Queue - Queue that orders its items by some priority, for example, cost, before ordering by when the item came into the queue.
+Visited - Set of nodes that have been examined.
+Neighbors - Nodes that have a direct path to one another.
+Goal - Node the algorithm is looking for.
+Enqueue - Place the item on the queue.
+Dequeue(min) - Takes off the item in the queue with the lowest cost.
